@@ -66,6 +66,10 @@ body {
     border-radius: 30px;
 }
 
+section {
+  margin: 100px auto;
+}
+
 h2 {
     font-size: 2rem;
     color: #33A8DB;
